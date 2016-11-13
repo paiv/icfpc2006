@@ -1,0 +1,4 @@
+umodem: transfer files between UMIX systems
+usage: umodem file.out EOF_SENTINEL
+Writes characters from the console into the file
+until the specified sequence EOF_SENTINEL is reached.

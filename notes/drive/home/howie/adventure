@@ -1,0 +1,106 @@
+>: l
+Room With a Door
+
+You are in a room with a mechanical door. You will probably need
+to use a keypad to unlock it. A hallway leads north.
+There is a pamphlet here.
+Underneath the pamphlet, there is a manifesto.
+
+>: l pamphlet
+The pamphlet is standard municipal fare. It reads, The City of
+Chicago's Refuse and Recycling Program combines modern trash
+classification with cybernetic labor to keep our city beautiful,
+while at the same time minimizing waste and limiting consumer
+spending. In keeping with our motto of "One Resident's Trash Is
+Another Resident's Treasure," unwanted items are collected,
+repaired, and redistributed to other residents who would have
+purchased them anyway. Residents should contribute to the city's
+program by leaving heaps of items unwanted on the sidewalk on
+collection day.
+Also, it is in pristine condition.
+
+>: l manifesto
+The manifesto is [______REDACTED______].
+Also, it is in pristine condition.
+
+>: n
+Junk Room
+
+You are in a room with a pile of junk. A hallway leads south.
+There is a bolt here.
+Underneath the bolt, there is a spring.
+Underneath the spring, there is a button.
+Underneath the button, there is a (broken) processor.
+Underneath the processor, there is a red pill.
+Underneath the pill, there is a (broken) radio.
+Underneath the radio, there is a cache.
+Underneath the cache, there is a blue transistor.
+Underneath the transistor, there is an antenna.
+Underneath the antenna, there is a screw.
+Underneath the screw, there is a (broken) motherboard.
+Underneath the motherboard, there is a (broken) A-1920-IXB.
+Underneath the A-1920-IXB, there is a red transistor.
+Underneath the transistor, there is a (broken) keypad.
+Underneath the keypad, there is some trash.
+
+>: l bolt
+The bolt is quite useful for securing all sorts of things.
+Also, it is in pristine condition.
+
+>: l spring
+The spring is tightly coiled.
+Also, it is in pristine condition.
+
+>: l button
+The button is labeled 6.
+Also, it is in pristine condition.
+
+>: l processor
+The processor is from the elusive 19x86 line.
+Also, it is broken: it is a processor missing a cache.
+
+>: l pill
+The pill is tempting looking. Interestingly, this one is red.
+Also, it is in pristine condition.
+
+>: l radio
+The radio is a hi-fi AM/FM stereophonic radio.
+Also, it is broken: it is a radio missing a transistor and an
+antenna.
+
+>: l cache
+The cache is fully-associative.
+Also, it is in pristine condition.
+
+>: l blue transistor
+The transistor is PNP-complete. Interestingly, this one is blue.
+Also, it is in pristine condition.
+
+>: l red transistor
+The transistor is NPN-complete. Interestingly, this one is red.
+Also, it is in pristine condition.
+
+>: l antenna
+The antenna is appropriate for receiving transmissions between
+30 kHz and 30 MHz.
+Also, it is in pristine condition.
+
+>: l screw
+The screw is not from a Dutch company.
+Also, it is in pristine condition.
+
+>: l motherboard
+The motherboard is well-used.
+Also, it is broken: it is a motherboard missing a A-1920-IXB and
+a screw.
+
+>: l A-1920-IXB
+The A-1920-IXB is an exemplary instance of part number
+A-1920-IXB.
+Also, it is broken: it is (a A-1920-IXB missing a transistor)
+missing (a radio missing an antenna) and a processor and a bolt.
+
+>: l keypad
+The keypad is labeled "use me".
+Also, it is broken: it is a keypad missing a motherboard and a
+button.
